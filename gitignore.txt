@@ -4,5 +4,9 @@ scripts_and_notebooks/LIT_exploring.ipynb
 scripts_and_notebooks/lit
 scripts_and_notebooks/protorynet_on_cornell_bu.ipynb
 test_set_to_observe.xlsx
+datasets/datasets/results/*
+datasets/datasets/cornell_corpus/results/*
+*__pycache__/
+*.ipynb_checkpoints
 Delete_at_the_end.ipynb
 
