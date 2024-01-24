@@ -1,0 +1,8 @@
+*.h5
+scripts_and_notebooks/cornell_corpus_preprocessing_bu.ipynb
+scripts_and_notebooks/LIT_exploring.ipynb
+scripts_and_notebooks/lit
+scripts_and_notebooks/protorynet_on_cornell_bu.ipynb
+test_set_to_observe.xlsx
+Delete_at_the_end.ipynb
+

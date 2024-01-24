@@ -1,0 +1,22 @@
+WARNING:root:The following words from set 'science' do not exist within the vocabulary of movie_dialogs_W2V: ['astronomy']
+{'query_name': 'Male terms and Female terms wrt science and arts', 'result': 0.10643901835594854, 'weat': 0.10643901835594854, 'effect_size': 0.48304873796999165, 'p_value': 0.16128387161283872}
+{'query_name': 'Male terms and Female terms wrt career and family', 'result': 0.23660461232066154, 'weat': 0.23660461232066154, 'effect_size': 0.4213696655833404, 'p_value': 0.201979802019798}
+
+
+WARNING:root:The following words from set 'Science' do not exist within the vocabulary of movie_dialogs_W2V: ['astronomy']
+WARNING:root:The following words from set 'Female names' do not exist within the vocabulary of movie_dialogs_W2V: ['diana']
+WARNING:root:The following words from set 'Science' do not exist within the vocabulary of movie_dialogs_W2V: ['astronomy']
+WARNING:root:The following words from set 'Female names' do not exist within the vocabulary of movie_dialogs_W2V: ['diana']
+WARNING:root:The following words from set 'Female names' do not exist within the vocabulary of movie_dialogs_W2V: ['diana']
+WARNING:root:The following words from set 'Science' do not exist within the vocabulary of movie_dialogs_W2V: ['astronomy']
+WARNING:root:The following words from set 'Female names' do not exist within the vocabulary of movie_dialogs_W2V: ['diana']
+{'query_name': 'Male terms and Female terms wrt Science and Arts', 'result': 0.10643901835594854, 'weat': 0.10643901835594854, 'effect_size': 0.48304873796999165, 'p_value': 0.16898310168983102}
+{'query_name': 'Male terms and Female terms wrt Career and Family', 'result': 0.23660461232066154, 'weat': 0.23660461232066154, 'effect_size': 0.4213696655833404, 'p_value': 0.20457954204579543}
+{'query_name': 'Male names and Female names wrt Science and Arts', 'result': -0.1689311478819167, 'weat': -0.1689311478819167, 'effect_size': -0.9595696731554468, 'p_value': 0.9679032096790321}
+{'query_name': 'Male names and Female names wrt Career and Family', 'result': -0.16682199947535992, 'weat': -0.16682199947535992, 'effect_size': -0.48443913885140605, 'p_value': 0.833916608339166}
+{'query_name': 'Male names and Female names wrt Arts and Science', 'result': 0.1689311478819167, 'weat': 0.1689311478819167, 'effect_size': 0.9595696731554468, 'p_value': 0.033096690330966905}
+{'query_name': 'Male names and Female names wrt Family and Career', 'result': 0.16682199947535992, 'weat': 0.16682199947535992, 'effect_size': 0.48443913885140605, 'p_value': 0.1777822217778222}
+{'query_name': 'Musical instruments and Weapons wrt Pleasant and Unpleasant', 'result': 0.2668437239798631, 'weat': 0.2668437239798631, 'effect_size': 0.8204788077866971, 'p_value': 0.020597940205979402}
+
+
+{'query_name': 'Musical instruments and Weapons wrt Pleasant and Unpleasant', 'result': -0.0609695675472417, 'weat': -0.0609695675472417, 'effect_size': -0.13748497331473405, 'p_value': 0.6212378762123788}
